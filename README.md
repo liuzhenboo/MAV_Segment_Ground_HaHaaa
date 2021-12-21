@@ -2,4 +2,4 @@
 
 讨论区。
 
-![2](https://github.com/liuzhenboo/MAV_segment_ground/raw/master/videos/seg.JPG)
+![2](https://github.com/liuzhenboo/MAV_Segment_Ground_HaHaaa/raw/master/videos/seg.JPG)
